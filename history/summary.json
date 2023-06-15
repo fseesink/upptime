@@ -4,9 +4,9 @@
     "url": "https://frank.seesink.com",
     "icon": "https://icons.duckduckgo.com/ip3/frank.seesink.com.ico",
     "slug": "my-blog-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 401,
     "timeMonth": 388,
     "timeYear": 390,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-15": 0
+    }
   },
   {
     "name": "HNS Studios",
     "url": "https://hnsstudios.seesink.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hnsstudios.seesink.com.ico",
     "slug": "hns-studios",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,14 +35,16 @@
     "timeWeek": 272,
     "timeMonth": 264,
     "timeYear": 264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-15": 0
+    }
   },
   {
     "name": "Play Elemental",
     "url": "https://playelemental.seesink.com/",
     "icon": "https://icons.duckduckgo.com/ip3/playelemental.seesink.com.ico",
     "slug": "play-elemental",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 340,
     "timeMonth": 318,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-15": 0
+    }
   }
 ]
