@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/frank.seesink.com.ico",
     "slug": "my-blog-site",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 389,
-    "timeDay": 378,
-    "timeWeek": 394,
-    "timeMonth": 387,
-    "timeYear": 389,
-    "dailyMinutesDown": {
-      "2023-06-15": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 390,
+    "timeDay": 377,
+    "timeWeek": 400,
+    "timeMonth": 383,
+    "timeYear": 390,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HNS Studios",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hnsstudios.seesink.com.ico",
     "slug": "hns-studios",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 270,
-    "timeWeek": 271,
-    "timeMonth": 264,
+    "timeDay": 259,
+    "timeWeek": 267,
+    "timeMonth": 262,
     "timeYear": 264,
-    "dailyMinutesDown": {
-      "2023-06-15": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Play Elemental",
@@ -45,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/playelemental.seesink.com.ico",
     "slug": "play-elemental",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 318,
-    "timeDay": 324,
-    "timeWeek": 337,
-    "timeMonth": 318,
-    "timeYear": 318,
-    "dailyMinutesDown": {
-      "2023-06-15": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 317,
+    "timeDay": 305,
+    "timeWeek": 333,
+    "timeMonth": 315,
+    "timeYear": 317,
+    "dailyMinutesDown": {}
   }
 ]
