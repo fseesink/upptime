@@ -6,38 +6,34 @@
     "slug": "my-blog-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 354,
-    "timeDay": 337,
-    "timeWeek": 356,
+    "timeDay": 261,
+    "timeWeek": 347,
     "timeMonth": 353,
     "timeYear": 354,
-    "dailyMinutesDown": {
-      "2023-11-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HNS Studios",
     "url": "https://hnsstudios.seesink.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hnsstudios.seesink.com.ico",
     "slug": "hns-studios",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 296,
-    "timeWeek": 278,
-    "timeMonth": 265,
-    "timeYear": 255,
-    "dailyMinutesDown": {
-      "2023-11-06": 9
-    }
+    "time": 258,
+    "timeDay": 525,
+    "timeWeek": 338,
+    "timeMonth": 281,
+    "timeYear": 258,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Play Elemental",
@@ -46,17 +42,15 @@
     "slug": "play-elemental",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 248,
-    "timeWeek": 313,
-    "timeMonth": 316,
-    "timeYear": 305,
-    "dailyMinutesDown": {
-      "2023-11-06": 9
-    }
+    "time": 309,
+    "timeDay": 566,
+    "timeWeek": 391,
+    "timeMonth": 337,
+    "timeYear": 309,
+    "dailyMinutesDown": {}
   }
 ]
