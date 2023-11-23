@@ -22,19 +22,19 @@
     "url": "https://hnsstudios.seesink.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hnsstudios.seesink.com.ico",
     "slug": "hns-studios",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 240,
-    "timeWeek": 263,
-    "timeMonth": 279,
-    "timeYear": 259,
+    "time": 260,
+    "timeDay": 345,
+    "timeWeek": 295,
+    "timeMonth": 287,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2023-11-23": 0
+      "2023-11-23": 10
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://playelemental.seesink.com/",
     "icon": "https://icons.duckduckgo.com/ip3/playelemental.seesink.com.ico",
     "slug": "play-elemental",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 139,
-    "timeWeek": 297,
-    "timeMonth": 334,
-    "timeYear": 309,
+    "time": 311,
+    "timeDay": 377,
+    "timeWeek": 337,
+    "timeMonth": 342,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2023-11-23": 0
+      "2023-11-23": 10
     }
   }
 ]
