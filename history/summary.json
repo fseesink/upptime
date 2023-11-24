@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 178,
-    "timeWeek": 351,
-    "timeMonth": 349,
-    "timeYear": 354,
+    "time": 355,
+    "timeDay": 497,
+    "timeWeek": 367,
+    "timeMonth": 354,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "hns-studios",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 345,
-    "timeWeek": 295,
-    "timeMonth": 287,
+    "timeDay": 417,
+    "timeWeek": 305,
+    "timeMonth": 291,
     "timeYear": 260,
-    "dailyMinutesDown": {
-      "2023-11-23": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Play Elemental",
@@ -44,17 +42,15 @@
     "slug": "play-elemental",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
-    "timeDay": 377,
-    "timeWeek": 337,
-    "timeMonth": 342,
+    "timeDay": 507,
+    "timeWeek": 353,
+    "timeMonth": 346,
     "timeYear": 311,
-    "dailyMinutesDown": {
-      "2023-11-23": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
