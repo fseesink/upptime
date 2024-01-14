@@ -4,18 +4,20 @@
     "url": "https://frank.seesink.com",
     "icon": "https://icons.duckduckgo.com/ip3/frank.seesink.com.ico",
     "slug": "my-blog-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 157,
-    "timeWeek": 299,
-    "timeMonth": 318,
-    "timeYear": 349,
-    "dailyMinutesDown": {}
+    "time": 350,
+    "timeDay": 526,
+    "timeWeek": 335,
+    "timeMonth": 320,
+    "timeYear": 350,
+    "dailyMinutesDown": {
+      "2024-01-14": 0
+    }
   },
   {
     "name": "HNS Studios",
@@ -29,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 112,
-    "timeWeek": 214,
-    "timeMonth": 217,
+    "timeDay": 427,
+    "timeWeek": 244,
+    "timeMonth": 221,
     "timeYear": 254,
     "dailyMinutesDown": {}
   },
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 133,
-    "timeWeek": 242,
-    "timeMonth": 266,
-    "timeYear": 306,
+    "time": 307,
+    "timeDay": 507,
+    "timeWeek": 287,
+    "timeMonth": 268,
+    "timeYear": 307,
     "dailyMinutesDown": {}
   }
 ]
