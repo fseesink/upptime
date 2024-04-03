@@ -6,18 +6,16 @@
     "slug": "my-blog-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 237,
-    "timeWeek": 265,
-    "timeMonth": 323,
+    "timeDay": 203,
+    "timeWeek": 243,
+    "timeMonth": 315,
     "timeYear": 346,
-    "dailyMinutesDown": {
-      "2024-04-02": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HNS Studios",
@@ -26,18 +24,16 @@
     "slug": "hns-studios",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 188,
-    "timeWeek": 199,
-    "timeMonth": 229,
+    "timeDay": 157,
+    "timeWeek": 186,
+    "timeMonth": 224,
     "timeYear": 250,
-    "dailyMinutesDown": {
-      "2024-04-02": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Play Elemental",
@@ -46,17 +42,15 @@
     "slug": "play-elemental",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 179,
-    "timeWeek": 219,
-    "timeMonth": 279,
+    "timeDay": 204,
+    "timeWeek": 210,
+    "timeMonth": 274,
     "timeYear": 301,
-    "dailyMinutesDown": {
-      "2024-04-02": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
