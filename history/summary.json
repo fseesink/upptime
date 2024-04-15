@@ -4,19 +4,19 @@
     "url": "https://frank.seesink.com",
     "icon": "https://icons.duckduckgo.com/ip3/frank.seesink.com.ico",
     "slug": "my-blog-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 3876,
-    "timeWeek": 1180,
-    "timeMonth": 516,
-    "timeYear": 365,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 364,
+    "timeDay": 2670,
+    "timeWeek": 1078,
+    "timeMonth": 508,
+    "timeYear": 364,
     "dailyMinutesDown": {
-      "2024-04-15": 15
+      "2024-04-15": 24
     }
   },
   {
