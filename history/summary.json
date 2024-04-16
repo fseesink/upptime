@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/frank.seesink.com.ico",
     "slug": "my-blog-site",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 364,
-    "timeDay": 2670,
-    "timeWeek": 1078,
-    "timeMonth": 508,
+    "timeDay": 2661,
+    "timeWeek": 1075,
+    "timeMonth": 506,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2024-04-15": 24
+      "2024-04-15": 15
     }
   },
   {
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 4725,
-    "timeWeek": 1338,
-    "timeMonth": 495,
+    "timeDay": 4732,
+    "timeWeek": 1334,
+    "timeMonth": 494,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2024-04-15": 15
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 114,
-    "timeWeek": 233,
-    "timeMonth": 260,
+    "timeDay": 128,
+    "timeWeek": 220,
+    "timeMonth": 254,
     "timeYear": 299,
     "dailyMinutesDown": {}
   }
