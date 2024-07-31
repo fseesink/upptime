@@ -4,10 +4,10 @@
     "url": "https://frank.seesink.com",
     "icon": "https://icons.duckduckgo.com/ip3/frank.seesink.com.ico",
     "slug": "my-blog-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 357,
@@ -16,6 +16,7 @@
     "timeMonth": 346,
     "timeYear": 356,
     "dailyMinutesDown": {
+      "2024-07-31": 1,
       "2024-05-11": 134,
       "2024-04-15": 15
     }
@@ -25,9 +26,9 @@
     "url": "https://hnsstudios.seesink.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hnsstudios.seesink.com.ico",
     "slug": "hns-studios",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -37,6 +38,7 @@
     "timeMonth": 255,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2024-07-31": 0,
       "2024-06-07": 39,
       "2024-05-11": 134,
       "2024-04-15": 15
@@ -47,9 +49,9 @@
     "url": "https://playelemental.seesink.com/",
     "icon": "https://icons.duckduckgo.com/ip3/playelemental.seesink.com.ico",
     "slug": "play-elemental",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -59,6 +61,7 @@
     "timeMonth": 310,
     "timeYear": 295,
     "dailyMinutesDown": {
+      "2024-07-31": 0,
       "2024-06-07": 38,
       "2024-05-11": 134
     }
