@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 424,
-    "timeDay": 253,
-    "timeWeek": 267,
-    "timeMonth": 361,
+    "timeDay": 403,
+    "timeWeek": 263,
+    "timeMonth": 364,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2025-11-03": 61
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hnsstudios.seesink.com.ico",
     "slug": "hns-studios",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
-    "timeDay": 245,
-    "timeWeek": 264,
-    "timeMonth": 327,
-    "timeYear": 321,
+    "timeDay": 308,
+    "timeWeek": 258,
+    "timeMonth": 330,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
-    "timeDay": 273,
-    "timeWeek": 306,
-    "timeMonth": 338,
+    "timeDay": 319,
+    "timeWeek": 292,
+    "timeMonth": 339,
     "timeYear": 345,
     "dailyMinutesDown": {}
   }
