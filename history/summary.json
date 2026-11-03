@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 423,
-    "timeDay": 208,
-    "timeWeek": 443,
-    "timeMonth": 429,
-    "timeYear": 417,
-    "dailyMinutesDown": {
-      "2025-11-03": 61
-    }
+    "time": 422,
+    "timeDay": 289,
+    "timeWeek": 432,
+    "timeMonth": 425,
+    "timeYear": 416,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HNS Studios",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 199,
-    "timeWeek": 311,
-    "timeMonth": 331,
+    "timeDay": 243,
+    "timeWeek": 314,
+    "timeMonth": 328,
     "timeYear": 324,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 354,
-    "timeDay": 254,
-    "timeWeek": 383,
-    "timeMonth": 356,
+    "timeDay": 282,
+    "timeWeek": 393,
+    "timeMonth": 359,
     "timeYear": 346,
     "dailyMinutesDown": {}
   }
